@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nae:home|Door43 (nae)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nae|d43-nae repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nae/archive/master.zip|d43-nae.zip]]
+
+**Recent Changes**
+{{changes>ns = nae}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nae|Ethnologue data]]
+
